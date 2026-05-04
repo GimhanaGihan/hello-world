@@ -17,7 +17,8 @@
 - 🌱 I’m currently learning **Python, HTML, CSS, JavaScript**
 - 💻 I use **ASUS TUF Gaming A16** laptop
 - 🎯 Goal: **Become a Full-Stack Developer**
-- 📫 Reach me: **gimhanagihan6@gmail.com**
+
+
 - ⚡ Fun fact: **I fixed my own laptop drivers by myself 😎**
 
 ---
